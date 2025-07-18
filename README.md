@@ -125,3 +125,21 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
+- Creando una medida para comparar las ventas el año anterior:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/ventas-totales-año-anterior.PNG">
+</div>
+<br>
+
+- Agregando la medida a nuestro gráfico de lineas para ver la comparación:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/agregando-año-anterior-grafico-lineas.PNG">
+</div>
+<br>
+
+- Por ultimo solo queda aplicar estilos de acuerdo a nuestras necesidades:
+
+## Resultado Final
+
+
+
