@@ -131,9 +131,9 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
-- Agregando la medida a nuestro gráfico de lineas para ver la comparación:
+- Agregando la medida a nuestro gráfico de lineas, gráfico de barras y gráfico de columnas para ver la comparación:
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/agregando-año-anterior-grafico-lineas.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/agregando-año-anterior-grafico-lineas-barras.PNG">
 </div>
 <br>
 
