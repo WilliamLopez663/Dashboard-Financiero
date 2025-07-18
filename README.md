@@ -29,3 +29,27 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
+- Uso de DAX para crear la medida ventas totales:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/medida-ventas-totales.PNG">
+</div>
+<br>
+
+- Eliminando del modelo la columna1 que se creó automaticamente al crear la tabla medidas:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/eliminando-columna1-del-modelo.PNG">
+</div>
+<br>
+
+- Uso de DAX para crear la medida costo total:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/medida-costo-total.PNG">
+</div>
+<br>
+
+- Uso de DAX para crear la medida del porcentaje de margen bruto:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/medida-porcentaje-margen-bruto.PNG">
+</div>
+<br>
+
