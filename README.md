@@ -83,3 +83,28 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
+- Insertando segmentador fabricante:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-segmentador-fabricante.PNG">
+</div>
+<br>
+
+- Insertando segmentador canal:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-segmentador-canal.PNG">
+</div>
+<br>
+
+- Insertando boton limpiar filtros:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-boton-limpiar-filtros.PNG">
+</div>
+<br>
+
+
+
+
+
+
+
+
