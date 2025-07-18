@@ -1,6 +1,6 @@
-# Dashboard Financiero
+# :moneybag: Dashboard Financiero
 
-dax-tabla-calendario.PNG
+Este dashboard financiero de ventas proporciona una visión clara y actualizada del desempeño comercial de la empresa. Incluye métricas clave como ingresos totales, ventas por producto o región, márgenes de ganancia, evolución mensual y comparación con objetivos. Permite tomar decisiones estratégicas basadas en datos en tiempo real.
 
 - Uso de DAX para crear mi tabla calendario:
 <div align="center">
@@ -139,7 +139,10 @@ dax-tabla-calendario.PNG
 
 - Por ultimo solo queda aplicar estilos de acuerdo a nuestras necesidades:
 
-## Resultado Final
-
+## :bar_chart: Resultado Final
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/resultado-final.PNG">
+</div>
+<br>
 
 
