@@ -53,10 +53,14 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
-
 - Uso de DAX para crear la medida del porcentaje de margen bruto:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/medida-porcentaje-margen-bruto.PNG">
 </div>
 <br>
 
+- Insertar tarjeta ventas totales, costo total, margen bruto y % de margen bruto:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertar-tarjeta-ventas-costo-margen.PNG">
+</div>
+<br>
