@@ -47,6 +47,13 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
+- Uso de DAX para crear la medida margen bruto:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/medida-margen-bruto.PNG">
+</div>
+<br>
+
+
 - Uso de DAX para crear la medida del porcentaje de margen bruto:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/medida-porcentaje-margen-bruto.PNG">
