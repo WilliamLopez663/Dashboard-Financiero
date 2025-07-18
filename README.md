@@ -101,7 +101,11 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
-
+- Insertando gráfico de lineas ventas por mes:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertar-grafico-lineas-ventas-totales-mes.PNG">
+</div>
+<br>
 
 
 
