@@ -107,8 +107,21 @@ dax-tabla-calendario.PNG
 </div>
 <br>
 
+- Insertando gráfico de barras ventas y costos por mes:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-grafico-barras-ventas-costo.PNG">
+</div>
+<br>
 
+- Insertando gráfico de barras agrupadas ventas por categoria:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertar-grafico-barras-agrupadas-ventas-categoria.PNG">
+</div>
+<br>
 
-
-
+- Insertando gráfico de columnas ventas totales por clase:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertar-grafico-ventas-totales-clase.PNG">
+</div>
+<br>
 
