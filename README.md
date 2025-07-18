@@ -64,3 +64,22 @@ dax-tabla-calendario.PNG
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertar-tarjeta-ventas-costo-margen.PNG">
 </div>
 <br>
+
+- Insertando segmentador año:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-segmentador-año.PNG">
+</div>
+<br>
+
+- Insertando segmentador clase:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-segmentador-clase.PNG">
+</div>
+<br>
+
+- Insertando segmentador color:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/insertando-segmentador-color.PNG">
+</div>
+<br>
+
