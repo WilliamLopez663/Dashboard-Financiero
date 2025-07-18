@@ -2,6 +2,8 @@
 
 Este dashboard financiero de ventas proporciona una visión clara y actualizada del desempeño comercial de la empresa. Incluye métricas clave como ingresos totales, ventas por producto o región, márgenes de ganancia, evolución mensual y comparación con objetivos. Permite tomar decisiones estratégicas basadas en datos en tiempo real.
 
+:link: **[BaseDeDatos.pbix](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/docs/DashboardFinancieroDatos.pbix)**
+
 - Uso de DAX para crear mi tabla calendario:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/images/dax-tabla-calendario.PNG">
@@ -145,4 +147,5 @@ Este dashboard financiero de ventas proporciona una visión clara y actualizada 
 </div>
 <br>
 
+:link: **[DashboardFinancieroFinal.pbix](https://raw.githubusercontent.com/WilliamLopez663/Dashboard-Financiero/main/assets/docs/DashboardFinancieroFinal.pbix)**
 
